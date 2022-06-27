@@ -1,0 +1,20 @@
+{
+    "mot": "Antoine!",
+    "lines_colors": "ybbnrrpp",
+    "colors": {
+        "b": [6, 82, 221],
+        "r": [234, 32, 39],
+        "n": [0, 0, 0],
+        "y": [255, 195, 18],
+        "p": [131, 52, 113]
+    },
+    "drawShadows": true,
+    "shadow_color": [30, 30, 30],
+    "lines": [],
+    "drawLines": true,
+    "randomLines": true,
+    "randomSeed": "4564",
+    "testMode": false,
+    "liveLineMode": false,
+    "psychedelicMode": false
+}
